@@ -27,8 +27,8 @@ a:hover {
 html,
 body {
     height: 100%;
-    /*background-color: #333;*/
-    background-image: url("pj.jpg");
+    background-color: #333;
+    /*background-image: url("pj.jpg");*/
 }
 body {
     color: #fff;
@@ -113,7 +113,8 @@ body {
 
 .cover {
     padding: 0 20px;
-    background-color: rgba(112, 112, 112, 0.3);    /*background-color: lightgray;*/
+    /*background-color: rgba(112, 112, 112, 0.3);    */
+    /*background-color: lightgray;*/
 }
 .cover .btn-lg {
     padding: 10px 20px;
